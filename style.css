@@ -416,6 +416,11 @@ header{
 
     }
 
+    .bx-menu{
+        position: absolute;
+        right: 20%;
+    }
+
     header .logo{
         padding-left: 20%;
     }
